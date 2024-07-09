@@ -1,0 +1,22 @@
+{
+    "name": "ton-wallet-monitor",
+    "version": "1.0.0",
+    "description": "monitor a wallet on the TON network and sync transaction data with exchange.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "amqplib": "^0.10.4",
+        "axios": "^0.21.4",
+        "express": "^4.19.2",
+        "mongodb": "^6.7.0",
+        "mongoose": "^5.12.3",
+        "node-vault": "^0.10.2",
+        "tonapi-sdk-js": "^1.0.10",
+        "tonweb": "^0.0.66"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
