@@ -218,8 +218,8 @@ To get the API key from tonapi.io, you need to visit [tonconsole.com](https://to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohammaditor/TonWallet
-   cd TonWallet
+   git clone https://github.com/mohammaditor/Ton-wallet
+   cd Ton-wallet
    ```
 
 2. Install the dependencies:
